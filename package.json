@@ -1,0 +1,19 @@
+{
+  "name": "oni-movies",
+  "version": "1.0.0",
+  "description": "creating an aplication with themovieDB API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oniafk/Oni-Movies.git"
+  },
+  "author": "@panda_arias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oniafk/Oni-Movies/issues"
+  },
+  "homepage": "https://github.com/oniafk/Oni-Movies#readme"
+}
